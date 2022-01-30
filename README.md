@@ -1,29 +1,37 @@
-# srnn
-  
+# CLEAR
+  ![License](https://img.shields.io/badge/License--yellowgreen.svg)
+
   ## Description 
-  lnblx
+  IT IS USED AS A READ ME GENERATOR
+
   ## Installation
-  slnlbx
-  undefined
+  IT IS INSTALLED ON VISIOCODE AND DEPLOYED ON GITHUB
+  
+ * [License](#license) 
+
 
   ## Table of contents
+
   [Dependencies]npm i
 
   ## Contributors
-  hndln
+  OYIN
 
   ## 
-  lnblx
+  IT IS USED AS A READ ME GENERATOR
 
   ## Github URL 
- [lnxlf](https://github.com/undefined/)
+ [OYINDAMI](https://github.com/undefined/)
 
-    
-   undefined
-   undefined
+
+ This project is licensed under 
+
+ ## License
+    This project is licensed under the  license.
+
 
 
    ## Test
   [Test]npm test
   
-   Contact me at lmnlnn
+   Contact me at OYINDAMI.OA
