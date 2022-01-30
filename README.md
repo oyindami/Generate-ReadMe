@@ -1,37 +1,41 @@
-# CLEAR
+## title 
+  dlmv
   ![License](https://img.shields.io/badge/License--yellowgreen.svg)
 
+  ### Table of contents
+  ![Description] (## Description)
+  ## Installation
+  ## Dependencies 
+  ## Questions
+
+
   ## Description 
-  IT IS USED AS A READ ME GENERATOR
+  dbnkdnmbd
+  dlnb
+  dlbn
+  [Test]dlbnm
 
   ## Installation
-  IT IS INSTALLED ON VISIOCODE AND DEPLOYED ON GITHUB
+  dnbkdnd
   
  * [License](#license) 
 
+  dlbn
 
-  ## Table of contents
 
-  [Dependencies]npm i
+ ## Dependencies
+  [Dependencies]don
 
-  ## Contributors
-  OYIN
-
-  ## 
-  IT IS USED AS A READ ME GENERATOR
-
-  ## Github URL 
- [OYINDAMI](https://github.com/undefined/)
-
+  ## Questions
+  dlbnld(https://github.com/undefined/)
+ 
+  
 
  This project is licensed under 
 
  ## License
     This project is licensed under the  license.
 
+## Contact
 
-
-   ## Test
-  [Test]npm test
-  
-   Contact me at OYINDAMI.OA
+   Contact me at dbdlndbl

@@ -33,7 +33,7 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}
 
   ### Table of contents
-  ## Description
+  ![Description] (## Description)
   ## Installation
   ## Dependencies 
   ## Questions
@@ -63,6 +63,7 @@ function generateMarkdown(data) {
 
  ${renderLicenseSection(data.license)}
 
+## Contact
 
    Contact me at ${data.Email}
 `;
