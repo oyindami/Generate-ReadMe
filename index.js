@@ -76,22 +76,9 @@ function writeToFile(fileName, data) {
 function init() {
   inquirer.prompt(questions).then((inquirerAnswers) => {
     console.log("Generating.... Please wait....");
-    writeToFile("./README.md", generateMarkdown({ ...inquirerAnswers }));
+    writeToFile("./GEN-README.md", generateMarkdown({ ...inquirerAnswers }));
   });
 }
 
-// // function call to initialize program
-// init();
 
-//            ])
-//         .then((answers) => {
-
-//         const newContent =  generateMarkdown(answers);
-
-//   fs.writeFile('readme.md', newContent, (err) =>
-//   err ? console.log(err) : console.log(answers)
-// );
-
-//   });
-// }
 init();

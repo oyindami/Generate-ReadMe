@@ -16,8 +16,7 @@ This application is done using node.js in the terminal to create a readme file f
 
 
 ## Links
-[deployed-site] (https://oyindami.github.io/Passwrod-creator-/)
-[github-repo] (https://github.com/oyindami/Passwrod-creator-)
+[github-repo] (https://github.com/oyindami/Generate-ReadMe)
 [walkthrough vide] (https://watch.screencastify.com/v/BII0t3OamjkgkeQ3Vs5m)
 
 ## Contact me
