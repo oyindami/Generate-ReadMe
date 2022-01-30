@@ -1,41 +1,25 @@
-## title 
-  readme generator
-  ![License](https://img.shields.io/badge/License--yellowgreen.svg)
+## Generate-Readme
 
-  ### Table of contents
-  (## Description)
-  ## Installation
-  ## Dependencies 
-  ## Questions
+## User Story
 
-
-  ## Description 
-  thi porject is used to generate a read me file for programmeres
-  oyin
-  it is used to generate a read me
-  [Test]npm test
-
-  ## Installation
-  this installed using node index
-  
- * [License](#license) 
-
-  it is used to generate a read me
+```md
+AS A developer
+I WANT a README generator
+SO THAT I can quickly create a professional README for a new project
+```
+## Technologies used
+Java Script, Inquirer, fs, Node.js
 
 
- ## Dependencies
-  [Dependencies]npm i
+## Description
+This application is done using node.js in the terminal to create a readme file for programmers. This would make it easy for a prgrammer to creat a readme directly from the terminal for a new project.
 
-  ## Questions
-  oyindami(https://github.com/undefined/)
- 
-  
 
- This project is licensed under 
+## Links
+[deployed-site] (https://oyindami.github.io/Passwrod-creator-/)
+[github-repo] (https://github.com/oyindami/Passwrod-creator-)
+[walkthrough vide] (https://watch.screencastify.com/v/BII0t3OamjkgkeQ3Vs5m)
 
- ## License
-    This project is licensed under the  license.
+## Contact me
 
-## Contact
-
-   Contact me at oyindami@gmail.com
+[Github] (https://github.com/oyindami)
