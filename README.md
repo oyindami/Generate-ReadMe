@@ -1,33 +1,33 @@
 ## title 
-  dlmv
+  readme generator
   ![License](https://img.shields.io/badge/License--yellowgreen.svg)
 
   ### Table of contents
-  ![Description] (## Description)
+  (## Description)
   ## Installation
   ## Dependencies 
   ## Questions
 
 
   ## Description 
-  dbnkdnmbd
-  dlnb
-  dlbn
-  [Test]dlbnm
+  thi porject is used to generate a read me file for programmeres
+  oyin
+  it is used to generate a read me
+  [Test]npm test
 
   ## Installation
-  dnbkdnd
+  this installed using node index
   
  * [License](#license) 
 
-  dlbn
+  it is used to generate a read me
 
 
  ## Dependencies
-  [Dependencies]don
+  [Dependencies]npm i
 
   ## Questions
-  dlbnld(https://github.com/undefined/)
+  oyindami(https://github.com/undefined/)
  
   
 
@@ -38,4 +38,4 @@
 
 ## Contact
 
-   Contact me at dbdlndbl
+   Contact me at oyindami@gmail.com
